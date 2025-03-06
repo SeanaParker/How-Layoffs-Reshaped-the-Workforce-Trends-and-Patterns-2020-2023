@@ -86,6 +86,8 @@ Global layoffs skyrocketed by 915% from 2021 to 2022, with tech, retail, and con
   - Series A (40.5%) and Series B (39%) also saw high workforce reductions, indicating that younger companies struggled the most to sustain headcount.
   - Later-stage companies such as Series I (11%) and subsidiaries (6%) had lower relative layoff rates, suggesting they had more financial stability.
   
+
+
   <img src="Visualizations/layoffs_by_company_stage.png" alt="Layoffs by Company Stage" width="700">
 
 ## Recommendations
