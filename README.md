@@ -87,7 +87,7 @@ Global layoffs skyrocketed by 915% from 2021 to 2022, with tech, retail, and con
   - Later-stage companies such as Series I (11%) and subsidiaries (6%) had lower relative layoff rates, suggesting they had more financial stability.
 
 &nbsp;
-  > <img src="Visualizations/layoffs_by_company_stage.png" alt="Layoffs by Company Stage" width="700">
+  &nbsp;&nbsp;&nbsp;&nbsp;<img src="Visualizations/layoffs_by_company_stage.png" alt="Layoffs by Company Stage" width="700">
 
 ## Recommendations
 Based on the insights and findings above, I would recommend companies to consider the following:
