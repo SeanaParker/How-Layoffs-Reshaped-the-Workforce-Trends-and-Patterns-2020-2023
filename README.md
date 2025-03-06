@@ -20,7 +20,7 @@ Layoffs serve as a critical indicator of economic shifts, corporate restructurin
 
 The SQL queries used to inspect and clean the data for this analysis can be found [here.](Exploration/Global_Layoffs_Analysis_Proj_Data_Cleaning.sql)
 
-Targeted SQL queries used for exploratory analysis can be found [here.[(Exploration/Global_Layoffs_Analysis_Proj_EDA.sql)
+Targeted SQL queries used for exploratory analysis can be found [here.](Exploration/Global_Layoffs_Analysis_Proj_EDA.sql)
 
 Raw dataset can be found [here.](Exploration/Global_Layoffs_Dataset.csv)
 
@@ -105,6 +105,6 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 - External factors like inflation, interest rate hikes, and political events also influence layoffs, but this dataset does not capture all of them.
 ---
 - The SQL queries used to inspect and clean the data for this analysis can be found [here.](Exploration/Global_Layoffs_Analysis_Proj_Data_Cleaning.sql)
-- Targeted SQL queries used for exploratory analysis can be found [here.[(Exploration/Global_Layoffs_Analysis_Proj_EDA.sql)
+- Targeted SQL queries used for exploratory analysis can be found [here.](Exploration/Global_Layoffs_Analysis_Proj_EDA.sql)
 - Raw dataset can be found [here.](Exploration/Global_Layoffs_Dataset.csv)
 - For more of my projects and data journey, visit my portfolio website and reach out!
