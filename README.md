@@ -49,6 +49,9 @@ Global layoffs skyrocketed by 915% from 2021 to 2022, with tech, retail, and con
   <img src="Visualizations/annual_and_cumulative_layoff_trends.png" alt="Annual and Cumulative Layoff Trends" width="700">
   
 - January 2023 saw the highest single-month layoffs (84,714), driven by widespread corporate downsizing, particularly in tech.
+
+  <img src="Visualizations/monthly_layoff_trends.png" alt="Monthly Layoff Trends" width="700">
+
 - These trends suggest that companies initially expanded their workforces during the pandemic but later scaled back aggressively. 
 - While some layoffs were concentrated in high-profile events, the broader trend shows a steady increase in job cuts, with 2022 and early 2023 accounting for the majority of reductions.
 
@@ -56,31 +59,34 @@ Global layoffs skyrocketed by 915% from 2021 to 2022, with tech, retail, and con
 - The largest single layoff recorded was at Google, occurring on January 20, 2023, with 12,000 employees cut, representing six percent of its workforce.
 - Some companies shut down entirely, such as Katerra (2,434 layoffs) and Butler Hospitality (1,000 layoffs), likely due to financial struggles.
 - Amazon led in total layoffs with 18,150 job cuts, followed by Google (12,000) and Meta (11,000), suggesting that tech companies, after rapid pandemic-era hiring, made significant reductions.
-  <img src="Visualizations/Top_10_Countries_Life_Exp_Inc.webp" alt="Top 10 Countries with Largest Life Expectancy Increase" width="650">
+
+  <img src="Visualizations/top_10_companies_layoffs.png" alt="Top 10 Companies Layoffs" width="700">
 
 ### Industry-Specific Layoff Analysis
 - Consumer sector layoffs totaled 45,182, highlighting how economic slowdowns disproportionately impacted consumer-focused industries.
 - Retail followed closely with 43,613 layoffs, reflecting widespread challenges in the sector. Given the scale of these job cuts, both brick-and-mortar and e-commerce businesses may have been affected.
 - Transportation saw 33,748 layoffs, while Finance recorded 28,344 job cuts, highlighting significant workforce reductions in both sectors during this period.
   
-  <img src="Visualizations/Avg_Life_Exp_GDP.webp" alt="Average Life Expectancy vs GDP" width="550">
+  <img src="Visualizations/top_10_industries_layoffs.png" alt="Top 10 Industries Layoffs" width="700">
 
 ### Geographic Differences in Workforce Reductions
 - The United States experienced the highest number of layoffs with 256,559 job losses, primarily in technology, retail, and finance.
 - India recorded 35,993 layoffs and the Netherlands had 17,220, making them the most affected countries outside the United States.
 - The widespread nature of layoffs across continents underscores that the economic downturn was not limited to a single region but affected businesses globally.
 
-  <img src="Visualizations/Avg_Life_Exp_Econ_Status.webp" alt="Average Life Expectancy by Economic Status" width="500">
-
+  <img src="Visualizations/top_10_countries_layoffs.png" alt="Top 10 Countries Layoffs" width="700">
 ### Company Stage and Financial Health
 - A loose positive correlation can be seen between company layoffs and total funds raised, with companies that secured more funding often laying off more employees. However, layoffs occurred at all funding levels, indicating that financial backing alone did not prevent workforce reductions.
+
+  <img src="Visualizations/funds_raised_layoffs_correlation.png" alt="Funds Raised Layoffs Correlation" width="700">
+  
 - Drilling down by company financing stage, companies that recently went public experienced the highest total layoffs, with 204,132 job cuts, highlighting the challenges of staying profitable after an IPO.
 - However, when considering workforce impact relative to company size, early-stage startups were the most vulnerable:
   - Seed-stage startups had an average workforce reduction of 70%, with most losing more than two-thirds of their employees.
   - Series A (40.5%) and Series B (39%) also saw high workforce reductions, indicating that younger companies struggled the most to sustain headcount.
   - Later-stage companies such as Series I (11%) and subsidiaries (6%) had lower relative layoff rates, suggesting they had more financial stability.
 
-  <img src="Visualizations/BMI_Life_Exp_Corr.webp" alt="BMI and Life Expectancy Correlation" width="600">
+  <img src="Visualizations/layoffs_by_company_stage.png" alt="Layoffs by Company Stage" width="700">
 
 ## Recommendations
 Based on the insights and findings above, I would recommend companies to consider the following:
