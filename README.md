@@ -16,7 +16,7 @@
 
 ## Project Background
 
-Layoffs serve as a critical indicator of economic shifts, corporate restructuring, and industry downturns. This project analyzes global layoffs from March 2020 to March 2023, identifying patterns across industries, company sizes, and geographic regions. Using SQL, I explored workforce reductions, major corporate downsizing events, and sector-wide impacts to uncover the key drivers behind layoffs. The findings provide valuable insights for businesses and policymakers navigating employment trends and economic fluctuations.
+Layoffs signal shifts in the economy, corporate restructuring, and industry downturns. This project examines workforce reductions from March 2020 to March 2023, identifying trends by industry, company stage, and region. Using SQL, I analyzed large-scale layoffs and broader workforce shifts to highlight key patterns and provide insights for businesses and policymakers navigating a changing labor market. The dataset comes from Layoffs.fyi, which compiles reports from Bloomberg, San Francisco Business Times, TechCrunch, and The New York Times.
 
 The SQL queries used to inspect and clean the data for this analysis can be found [here.](Exploration/Global_Layoffs_Analysis_Proj_Data_Cleaning.sql)
 
