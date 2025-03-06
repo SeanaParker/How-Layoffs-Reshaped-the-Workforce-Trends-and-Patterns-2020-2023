@@ -1,5 +1,4 @@
 -- Global Layoffs Analysis Project (Exploratory Data Analysis)
--- Dataset contains global layoffs starting from 2021.
 
 
 -- Find the largest single layoff on record (not cumulative).
