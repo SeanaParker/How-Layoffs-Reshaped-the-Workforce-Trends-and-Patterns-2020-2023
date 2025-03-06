@@ -18,11 +18,11 @@
 
 Layoffs serve as a critical indicator of economic shifts, corporate restructuring, and industry downturns. This project analyzes global layoffs from March 2020 to March 2023, identifying patterns across industries, company sizes, and geographic regions. Using SQL, I explored workforce reductions, major corporate downsizing events, and sector-wide impacts to uncover the key drivers behind layoffs. The findings provide valuable insights for businesses and policymakers navigating employment trends and economic fluctuations.
 
-The SQL queries used to inspect and clean the data for this analysis can be found here.
+The SQL queries used to inspect and clean the data for this analysis can be found [here.](Exploration/Global_Layoffs_Analysis_Proj_Data_Cleaning.sql)
 
-Targeted SQL queries used for exploratory analysis can be found here.
+Targeted SQL queries used for exploratory analysis can be found [here.[(Exploration/Global_Layoffs_Analysis_Proj_EDA.sql)
 
-Raw datasets in Excel format can be found here.
+Raw dataset can be found [here.](Exploration/Global_Layoffs_Dataset.csv)
 
 ## Data Structure & Initial Checks
 
@@ -104,7 +104,7 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 - Industry classifications were standardized, but some variation may still exist depending on how companies categorize themselves.
 - External factors like inflation, interest rate hikes, and political events also influence layoffs, but this dataset does not capture all of them.
 ---
-- The SQL queries used to inspect and clean the data for this analysis can be found here.
-- Targeted SQL queries used for exploratory analysis can be found here.
-- Raw dataset in Excel format can be found here.
+- The SQL queries used to inspect and clean the data for this analysis can be found [here.](Exploration/Global_Layoffs_Analysis_Proj_Data_Cleaning.sql)
+- Targeted SQL queries used for exploratory analysis can be found [here.[(Exploration/Global_Layoffs_Analysis_Proj_EDA.sql)
+- Raw dataset can be found [here.](Exploration/Global_Layoffs_Dataset.csv)
 - For more of my projects and data journey, visit my portfolio website and reach out!
