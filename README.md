@@ -45,7 +45,8 @@ Global layoffs skyrocketed by 915% from 2021 to 2022, with tech, retail, and con
 - Layoff patterns changed significantly over the three years, reflecting both short-term volatility and long-term workforce reductions. 
 - Layoffs surged by 915% from 2021 (15,823 layoffs) to 2022 (160,661 layoffs), signaling a major shift in workforce strategies. 
 - By March 2023, total layoffs reached 383,159, underscoring the scale of job losses over time. While some months saw lower layoff activity, workforce reductions steadily accumulated, particularly in 2022 and early 2023. 
-  <img src="Visualizations/annual_and_cumulative_layoff_trends.png" alt="Annual and Cumulative Layoff Trends" width="600">
+
+  <img src="Visualizations/annual_and_cumulative_layoff_trends.png" alt="Annual and Cumulative Layoff Trends" width="700">
   
 - January 2023 saw the highest single-month layoffs (84,714), driven by widespread corporate downsizing, particularly in tech.
 - These trends suggest that companies initially expanded their workforces during the pandemic but later scaled back aggressively. 
