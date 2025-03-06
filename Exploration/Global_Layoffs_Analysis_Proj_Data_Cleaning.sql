@@ -1,6 +1,6 @@
 # Global Layoffs Analysis Project (Data Cleaning)
--- Dataset contains global layoffs starting from 2021.
-
+-- https://www.kaggle.com/datasets/swaptr/layoffs-2022
+    
 -- Cleaning includes:
 -- 1. Removing duplicates
 -- 2. Standardizing fields
