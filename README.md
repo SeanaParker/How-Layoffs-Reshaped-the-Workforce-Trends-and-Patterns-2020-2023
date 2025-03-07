@@ -16,7 +16,7 @@
 
 ## Project Background
 
-Layoffs signal shifts in the economy, corporate restructuring, and industry downturns. This project examines workforce reductions from March 2020 to March 2023, identifying trends by industry, company stage, and region. Using SQL, I analyzed large-scale layoffs and broader workforce shifts to highlight key patterns and provide insights for businesses and policymakers navigating a changing labor market. The dataset comes from Layoffs.fyi, which compiles reports from Bloomberg, San Francisco Business Times, TechCrunch, and The New York Times.
+Layoffs often signal shifts in the economy, industry health, and company priorities. This SQL-based analysis explores major workforce reductions from March 2020 to March 2023, identifying patterns by industry, company stage, and region. It provides insights to help businesses and policymakers navigate changes in the labor market. The data was sourced from Layoffs.fyi, which compiles reports from Bloomberg, TechCrunch, San Francisco Business Times, and The New York Times.
 
 The SQL queries used to inspect and clean the data for this analysis can be found [here.](Exploration/Global_Layoffs_Analysis_Proj_Data_Cleaning.sql)
 
