@@ -32,7 +32,7 @@ The dataset includes 2,361 records of layoffs from 2020 to 2023, detailing compa
 To ensure data integrity, the following cleaning steps were taken:
 - Used `ROW_NUMBER()` to eliminate redundant records based on company, industry, and location.
 - Applied `TRIM()` to remove extra spaces and formatting inconsistencies.
-- Used self-joins to infer likely classifications based on similar company/location data.
+- Used self-joins to infer industry classifications by matching company and location data.
 - Used `STR_TO_DATE()` to ensure proper time-series analysis.
 
 ## Executive Summary
@@ -91,10 +91,10 @@ Global layoffs skyrocketed by 915% from 2021 to 2022, with tech, retail, and con
 
 ## Recommendations
 Based on the insights and findings above, I would recommend companies to consider the following:
-- Strengthen economic forecasting to anticipate downturns and prevent excessive hiring during periods of uncertainty.
-- Adopt cautious financial planning, particularly for startups, to ensure long-term stability and sustainable growth.
-- Invest in workforce retraining and up-skilling to help employees transition into new roles, especially in vulnerable industries like Consumer and Retail.
-- Diversify revenue streams to reduce reliance on a single business model, improving resilience in shifting market conditions.
+- Strengthen economic forecasting to anticipate downturns and better align hiring strategies with market conditions, minimizing the need for rapid, large-scale layoffs.
+- Focus on sustainable financial growth, especially for early-stage startups. Prioritize cautious scaling to ensure long-term stability and reduce vulnerability to market shifts.
+- Create programs to help employees transition to new roles or industries, particularly for industries like consumer and retail, which saw significant layoffs during this period.
+- Explore new business models or diversify their offerings to stay resilient when market conditions change.
 
 ## Assumptions and Caveats
 
