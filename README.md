@@ -1,4 +1,4 @@
-# How Layoffs Reshaped the Workforce: Trends and Patterns (2020-2023)
+# How Layoffs Reshaped the Workforce: Employment Trends (2020-2023)
 
 ## Table of Contents
 
